@@ -1,0 +1,20 @@
+name: cms
+channels:
+  - conda-forge
+dependencies:
+  - vector
+  - mplhep
+  - scipy
+  - iminuit
+  - pandas
+  - uproot
+  - jupyterlab
+  - awkward
+  - root
+  - hist
+  - numpy
+  - matplotlib
+  - xrootd
+  - coffea
+  - git
+prefix: /home/tinoasan/miniforge3/envs/cms
